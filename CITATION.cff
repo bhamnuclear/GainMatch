@@ -6,4 +6,7 @@ authors:
     orcid: https://orcid.org/0000-0002-8289-3943
 title: "GainMatch"
 version: 1.0.0
+identifiers:
+  - type: url
+    value: https://github.com/bhamnuclear/GainMatch.git
 date-released: 2026-04-01
