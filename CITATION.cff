@@ -1,12 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: GainMatch
+message: >-
+  Python program to gain match SPE files - linear
+  calibration - allows multiple files to be refrerenced
+  against a reference one. partially Vibe Coded
+type: software
 authors:
-  - family-names: Falezza
-    given-names: Filippo
-    orcid: https://orcid.org/0000-0002-8289-3943
-title: "GainMatch"
-version: 1.0.0
+  - given-names: Falezza
+    family-names: Filippo
+    email: filippo.falezza@outlook.com
+    orcid: 'https://orcid.org/0000-0002-8289-3943'
+    affiliation: University of Birmingham
 identifiers:
   - type: url
-    value: https://github.com/bhamnuclear/GainMatch.git
-date-released: 2026-04-01
+    value: 'https://github.com/bhamnuclear/GainMatch.git'
+license: GPL-3.0-or-later
+version: 1.0.0
+date-released: '2026-04-01'
